@@ -1,0 +1,8 @@
+git clone https://github.com/meta-llama/llama-stack/new/main/llama_stack
+## Credits
+This project is based on the originalhttps://github.com/meta-llama/llama-stack/new/main/llama_stack repository by and inspired by Llama 3.1 70B
+# This function is based on the original implementation by Original Author's John, Thomas, Morthian and Doug.
+pip install llama-stack --upgrade
+pip list --outdated
+pip install --upgrade <package_name>
+pip show llama-stack
